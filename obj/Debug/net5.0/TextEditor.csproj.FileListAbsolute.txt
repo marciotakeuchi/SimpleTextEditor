@@ -1,0 +1,16 @@
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\bin\Debug\net5.0\TextEditor.exe
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\bin\Debug\net5.0\TextEditor.dll
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.dll
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\refint\TextEditor.dll
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
+C:\GitProjects\source\repos\BaltaExamples\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
